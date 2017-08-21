@@ -9,6 +9,6 @@ Simple javascript performance monitor
 ```
 <script 
   type="text/javascript" 
-  src="https://raw.githubusercontent.com/prozoroff/fpsmonitor/master/fpsmonitor.min.js">
+  src="https://rawgit.com/prozoroff/fpsmonitor/master/fpsmonitor.min.js">
 </script>
 ```
